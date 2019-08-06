@@ -12,7 +12,7 @@ Guava是一个开源的Java库，Google Guava源于2007年的"Google Collections
 
 源码地址:
 
-https://github.com/pony-maggie/spring-security-learn
+https://github.com/pony-maggie/guava-learn-demo
 
 csdn博客地址:
 
